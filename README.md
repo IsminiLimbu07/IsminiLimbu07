@@ -1,5 +1,5 @@
 # 💫 About Me
-I am Ismini <br>🎓 Studying BSc (Hons) in Computing at Itahari International College<br>💡 Passionate about Web Development (HTML, CSS, JavaScript)<br>🛠 Currently learning Python & Java<br>🌱 Exploring MERN Stack this holiday<br>☕ Runs on coffee + curiosity
+I am Ismini <br>🎓 Studying BSc (Hons) in Computing at Itahari International College<br>💡 Passionate Full-Stack Developer<br>🛠 Currently learning Python & Java<br>🌱 Exploring MERN Stack this holiday<br>☕ Runs on coffee + curiosity
 
 
 # 💻 Tech Stack
